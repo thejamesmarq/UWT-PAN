@@ -1,0 +1,9 @@
+1-17 <- topic divergence
+18 <- repetition
+19 <- capital words
+20 <- capital letters
+21 <- number of tokens
+22-89 <- LIWC
+90-95 <- Readability
+96 <- Emoticons
+97-101 <- HTML tags
