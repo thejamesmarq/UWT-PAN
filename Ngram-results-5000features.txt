@@ -1,0 +1,146 @@
+results from unigrams
+-unigrams
+running on english blogs
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using uni_grams: 0.22121031746
+Evaluating age models
+Age accuracy after 10 fold cross validation using uni_grams: 0.352077922078
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using uni_grams: 0.528846153846
+-e 
+running on spanish blogs
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using uni_grams: 0.205952380952
+Evaluating age models
+Age accuracy after 10 fold cross validation using uni_grams: 0.509523809524
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using uni_grams: 0.429166666667
+-e 
+running on english reviews
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using uni_grams: 0.106826715212
+Evaluating age models
+Age accuracy after 10 fold cross validation using uni_grams: 0.217159358289
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using uni_grams: 0.492762259643
+-e 
+running on english twitter
+Evaluating comb models
+-e 
+-e 
+running on spanish twitter
+Evaluating comb models
+-e 
+-e 
+running on spanish socialmedia
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using uni_grams: 0.134992053483
+Evaluating age models
+Age accuracy after 10 fold cross validation using uni_grams: 0.272837928256
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using uni_grams: 0.537719298246
+-e 
+
+
+results from bigrams
+-bigrams
+running on english blogs
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using bi_grams: 0.243412698413
+Evaluating age models
+Age accuracy after 10 fold cross validation using bi_grams: 0.384069264069
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using bi_grams: 0.571703296703
+-e 
+running on spanish blogs
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using bi_grams: 0.24880952381
+Evaluating age models
+Age accuracy after 10 fold cross validation using bi_grams: 0.38
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using bi_grams: 0.45
+-e 
+running on english reviews
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using bi_grams: 0.120719080669
+Evaluating age models
+Age accuracy after 10 fold cross validation using bi_grams: 0.245190730838
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using bi_grams: 0.494902719308
+-e 
+running on english twitter
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using bi_grams: 0.19923992674
+Evaluating age models
+Age accuracy after 10 fold cross validation using bi_grams: 0.406823923203
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using bi_grams: 0.5
+-e 
+running on spanish twitter
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using bi_grams: 0.216408730159
+Evaluating age models
+Age accuracy after 10 fold cross validation using bi_grams: 0.405336942469
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using bi_grams: 0.5
+-e 
+running on spanish socialmedia
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using bi_grams: 0.130020681086
+Evaluating age models
+Age accuracy after 10 fold cross validation using bi_grams: 0.301803007356
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using bi_grams: 0.535964912281
+-e 
+
+
+results from combined
+-combinedgrams
+running on english blogs
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using comb_grams: 0.232301587302
+Evaluating age models
+Age accuracy after 10 fold cross validation using comb_grams: 0.351017316017
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using comb_grams: 0.603754578755
+-e 
+running on spanish blogs
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using comb_grams: 0.244642857143
+Evaluating age models
+Age accuracy after 10 fold cross validation using comb_grams: 0.404285714286
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using comb_grams: 0.4375
+-e 
+running on english reviews
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using comb_grams: 0.120719080669
+Evaluating age models
+Age accuracy after 10 fold cross validation using comb_grams: 0.236642424242
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using comb_grams: 0.506398623279
+-e 
+running on english twitter
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using comb_grams: 0.188315018315
+Evaluating age models
+Age accuracy after 10 fold cross validation using comb_grams: 0.363057344954
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using comb_grams: 0.5
+-e 
+running on spanish twitter
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using comb_grams: 0.188015873016
+Evaluating age models
+Age accuracy after 10 fold cross validation using comb_grams: 0.390255332902
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using comb_grams: 0.5
+-e 
+running on spanish socialmedia
+Evaluating comb models
+Combined accuracy after 10 fold cross validation using comb_grams: 0.126217896503
+Evaluating age models
+Age accuracy after 10 fold cross validation using comb_grams: 0.305026539104
+Evaluating gender models
+Gender accuracy after 10 fold cross validation using comb_grams: 0.528070175439
+-e 
